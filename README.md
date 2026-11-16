@@ -8,7 +8,7 @@ Switch and PC titles, with condition tracking and member reputation built in.
 
 ## Tech stack
 
-- [Next.js](https://nextjs.org) 14+ with the App Router
+- [Next.js](https://nextjs.org) 15.5 with the App Router
 - [TypeScript](https://www.typescriptlang.org) (strict mode)
 - [Tailwind CSS](https://tailwindcss.com) for styling
 - [ESLint](https://eslint.org) (`next/core-web-vitals`, `next/typescript`)
